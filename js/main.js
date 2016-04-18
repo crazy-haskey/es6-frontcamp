@@ -1,3 +1,5 @@
+require("babel-polyfill");
+
 /**
  * Getting data from NY Times books
  * 
